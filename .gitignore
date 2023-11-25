@@ -1,0 +1,27 @@
+# Arquivos de compilação
+*.o
+*.out
+
+# Arquivos gerados pelo IDE
+.idea/
+.vscode/
+
+# Dependências e pacotes
+/node_modules/
+/package-lock.json
+
+# Arquivos de build
+/build/
+/dist/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração sensíveis
+.env
+
+Debug/
+*.log
+**/obj/
+.vs
+bin/
